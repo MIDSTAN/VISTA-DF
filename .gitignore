@@ -1,0 +1,7 @@
+pretrained_models/**
+runs/**
+/myenv/
+__pycache__/
+*.py[cod]
+/dataset/
+/Real vs deepfake/
